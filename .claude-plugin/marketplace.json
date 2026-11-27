@@ -1,0 +1,7 @@
+{
+  "name": "claude-sage-theme",
+  "owner": { "name": "tjtkdwns2918-ship-it" },
+  "plugins": [
+    { "name": "sage-ribbons", "source": "./plugins/sage-ribbons", "description": "Soft sage-green theme with slowly flowing paper ribbons" }
+  ]
+}
